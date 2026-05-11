@@ -1,0 +1,9 @@
+# Dependencias
+node_modules/
+dist/
+
+# Archivos de sistema y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
